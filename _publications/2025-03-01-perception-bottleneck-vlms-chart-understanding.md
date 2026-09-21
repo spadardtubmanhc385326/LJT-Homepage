@@ -6,7 +6,7 @@ permalink: /publication/2025-03-01-perception-bottleneck-vlms-chart-understandin
 excerpt: '2025 Arxiv publication. First author.'
 date: 2025-03-01
 venue: 'Arxiv'
-citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). "On the Perception Bottleneck of VLMs for Chart Understanding." \u003ci\u003eArxiv\u003c/i\u003e.'
+citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; <i>Arxiv</i>.'
 ---
 
 2025 publication. First author.
